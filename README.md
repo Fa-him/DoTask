@@ -23,13 +23,7 @@
 
 ---
 
-## 🖼️ Screenshots
 
-![Main Window](https://imgur.com/a/ufTCIjx)
-![Remove Websites](https://imgur.com/a/gZO7gzp)
-![Remaining Websites](https://imgur.com/a/9TZIlH9)
-
----
 ## 🧩 Chrome Extension Setup
 
 1. **Download** the [`dotask-extension`](./dotask-extension) folder from this repository  
