@@ -25,9 +25,9 @@
 
 ## 🖼️ Screenshots
 
-![Main Window](https://ibb.co.com/QFL7dMDP)
-![Remove Websites](https://ibb.co.com/b56qvS1n)
-![Remaining Websites](https://ibb.co.com/xKhvk7Zc)
+![Main Window](https://imgur.com/a/ufTCIjx)
+![Remove Websites](https://imgur.com/a/gZO7gzp)
+![Remaining Websites](https://imgur.com/a/9TZIlH9)
 
 ---
 ## 🧩 Chrome Extension Setup
